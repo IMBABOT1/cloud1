@@ -1,0 +1,83 @@
+0000000000000000000000000000000000000000 404da49c40b6fe3b819eef296b30acf2cc8ba990 Mikhail Shemyakin <zlovred12@gmail.com> 1610805584 +0300	commit (initial): first commit
+404da49c40b6fe3b819eef296b30acf2cc8ba990 a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610805619 +0300	commit: first commit
+a2ce1a47938d36268e0128b7a318dcffd96ff80e 0000000000000000000000000000000000000000 Mikhail Shemyakin <zlovred12@gmail.com> 1610805629 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610805629 +0300	Branch: renamed refs/heads/master to refs/heads/main
+a2ce1a47938d36268e0128b7a318dcffd96ff80e a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610807274 +0300	checkout: moving from main to lesson6dz
+a2ce1a47938d36268e0128b7a318dcffd96ff80e 86984cc432362b230df518ca61aa742ec451d927 Mikhail Shemyakin <zlovred12@gmail.com> 1610807291 +0300	commit: dz
+86984cc432362b230df518ca61aa742ec451d927 a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610807343 +0300	checkout: moving from lesson6dz to main
+a2ce1a47938d36268e0128b7a318dcffd96ff80e 86984cc432362b230df518ca61aa742ec451d927 Mikhail Shemyakin <zlovred12@gmail.com> 1610807456 +0300	checkout: moving from main to lesson6dz
+86984cc432362b230df518ca61aa742ec451d927 a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610807588 +0300	checkout: moving from lesson6dz to main
+a2ce1a47938d36268e0128b7a318dcffd96ff80e a2ce1a47938d36268e0128b7a318dcffd96ff80e Mikhail Shemyakin <zlovred12@gmail.com> 1610807606 +0300	checkout: moving from main to main
+a2ce1a47938d36268e0128b7a318dcffd96ff80e bbe5bbaebc5db1b1053d7be4fe66ecd9eced8c48 Mikhail Shemyakin <zlovred12@gmail.com> 1610807746 +0300	commit: temp
+bbe5bbaebc5db1b1053d7be4fe66ecd9eced8c48 86984cc432362b230df518ca61aa742ec451d927 Mikhail Shemyakin <zlovred12@gmail.com> 1610807796 +0300	checkout: moving from main to lesson6dz
+86984cc432362b230df518ca61aa742ec451d927 bbe5bbaebc5db1b1053d7be4fe66ecd9eced8c48 Mikhail Shemyakin <zlovred12@gmail.com> 1610807925 +0300	checkout: moving from lesson6dz to main
+bbe5bbaebc5db1b1053d7be4fe66ecd9eced8c48 6d4699f1ad40a89b39f276c7ce101b2bb80eb941 Mikhail Shemyakin <zlovred12@gmail.com> 1610807956 +0300	commit: main
+6d4699f1ad40a89b39f276c7ce101b2bb80eb941 b85f5f01212dd7f7425455ce2eb30e9343925b59 Mikhail Shemyakin <zlovred12@gmail.com> 1610808796 +0300	commit: serverClientClose
+b85f5f01212dd7f7425455ce2eb30e9343925b59 99faac6fa1079fb5796786ad18e3264a7b33df73 Mikhail Shemyakin <zlovred12@gmail.com> 1610809111 +0300	commit: Platform.exit();
+99faac6fa1079fb5796786ad18e3264a7b33df73 c0543a697fd76e458fc0efa39c2ac611b9bdc26a Mikhail Shemyakin <zlovred12@gmail.com> 1610826862 +0300	commit: lesson7
+c0543a697fd76e458fc0efa39c2ac611b9bdc26a fe68cf2702fd9635bbec12baf9f2dce28afa5a8c Mikhail Shemyakin <zlovred12@gmail.com> 1610826995 +0300	commit: lesson7
+fe68cf2702fd9635bbec12baf9f2dce28afa5a8c 1ba602af62fd987bf43c9bb756953643abbd9976 Mikhail Shemyakin <zlovred12@gmail.com> 1610836450 +0300	commit: privatemessage
+1ba602af62fd987bf43c9bb756953643abbd9976 0034b06180835fb57ffc47b30ba1d9a2fbdfa8fe Mikhail Shemyakin <zlovred12@gmail.com> 1610836723 +0300	commit: privatemessage
+0034b06180835fb57ffc47b30ba1d9a2fbdfa8fe c7e0e2c958f4397a403f181e1a831345fe7079e4 Mikhail Shemyakin <zlovred12@gmail.com> 1610837880 +0300	commit: privatemessage
+c7e0e2c958f4397a403f181e1a831345fe7079e4 ebe46f0ed8d12a8d9544a97d640da837c9abfb65 Mikhail Shemyakin <zlovred12@gmail.com> 1610838705 +0300	commit: privatemessage
+ebe46f0ed8d12a8d9544a97d640da837c9abfb65 1bfe886ebf6c42894bdf29b80380490e5f03da6e Mikhail Shemyakin <zlovred12@gmail.com> 1610839655 +0300	commit: privatemessage
+1bfe886ebf6c42894bdf29b80380490e5f03da6e 7803bfa2dfb498acd36fb3438343a04455b9da9c Mikhail Shemyakin <zlovred12@gmail.com> 1610840060 +0300	commit: privatemessage
+7803bfa2dfb498acd36fb3438343a04455b9da9c 2a253eb973e9dcefda55c216b2b85287e0cb4d12 Mikhail Shemyakin <zlovred12@gmail.com> 1610875542 +0300	commit: lesson7dz
+2a253eb973e9dcefda55c216b2b85287e0cb4d12 05ac45e3139fe0796d394504726f7896e6d0bcf4 Mikhail Shemyakin <zlovred12@gmail.com> 1610880024 +0300	commit: loginpassword
+05ac45e3139fe0796d394504726f7896e6d0bcf4 8e058471c28775f322d201a3bcf3695808f432d3 Mikhail Shemyakin <zlovred12@gmail.com> 1610880715 +0300	commit: font
+8e058471c28775f322d201a3bcf3695808f432d3 d7efc7f4e7d7242091eb37d3a58a090f3459ec92 Mikhail Shemyakin <zlovred12@gmail.com> 1610882414 +0300	commit: DateTimeFormatter
+d7efc7f4e7d7242091eb37d3a58a090f3459ec92 d931d7953b48813f1dbb47c1714daa2fb72cd406 Mikhail Shemyakin <zlovred12@gmail.com> 1610903498 +0300	commit: changeNick
+d931d7953b48813f1dbb47c1714daa2fb72cd406 262ea83a8501b40aae1089178c3ccfcf570eb0a6 Mikhail Shemyakin <zlovred12@gmail.com> 1610903557 +0300	commit: changeNick
+262ea83a8501b40aae1089178c3ccfcf570eb0a6 7c50a46e2757310b0fb12f8c01db12d09b15146f Mikhail Shemyakin <zlovred12@gmail.com> 1610981681 +0300	commit: lesson2temp
+7c50a46e2757310b0fb12f8c01db12d09b15146f 7c56802c5bfe4c67d9b995eb0287008472a8295d Mikhail Shemyakin <zlovred12@gmail.com> 1610981725 +0300	commit: lesson2temp
+7c56802c5bfe4c67d9b995eb0287008472a8295d 80a51a0cb6515806e191a1038ff1c3c46c822599 Mikhail Shemyakin <zlovred12@gmail.com> 1610992324 +0300	commit: temp
+80a51a0cb6515806e191a1038ff1c3c46c822599 32a8174fd4a2507f4cc4359171f171a362a4eb70 Mikhail Shemyakin <zlovred12@gmail.com> 1610993120 +0300	commit: temp
+32a8174fd4a2507f4cc4359171f171a362a4eb70 a07a24574f158e2688d276fdf224a2ecf2f2399b Mikhail Shemyakin <zlovred12@gmail.com> 1610994163 +0300	commit: database
+a07a24574f158e2688d276fdf224a2ecf2f2399b a07a24574f158e2688d276fdf224a2ecf2f2399b Mikhail Shemyakin <zlovred12@gmail.com> 1610994604 +0300	checkout: moving from main to java3(2)
+a07a24574f158e2688d276fdf224a2ecf2f2399b 9ee5280ad1095585cc1876cdaaa3edafc8625b33 Mikhail Shemyakin <zlovred12@gmail.com> 1610994635 +0300	commit: changeNickname
+9ee5280ad1095585cc1876cdaaa3edafc8625b33 657a9604ff77968f20288ce6c754a749bd13a4cd Mikhail Shemyakin <zlovred12@gmail.com> 1610996864 +0300	commit: temp
+657a9604ff77968f20288ce6c754a749bd13a4cd 134de2e08ec6af070fe3b1089d6593f740e417d8 Mikhail Shemyakin <zlovred12@gmail.com> 1610998036 +0300	commit: chanhenick
+134de2e08ec6af070fe3b1089d6593f740e417d8 a07a24574f158e2688d276fdf224a2ecf2f2399b Mikhail Shemyakin <zlovred12@gmail.com> 1610998077 +0300	checkout: moving from java3(2) to main
+a07a24574f158e2688d276fdf224a2ecf2f2399b 5d5b0c681010ac47e4ef53b8f0d9531ad40ed9f0 Mikhail Shemyakin <zlovred12@gmail.com> 1610998156 +0300	commit: temp
+5d5b0c681010ac47e4ef53b8f0d9531ad40ed9f0 4a5270586cccfe529be5d8a89c2ad517dcff85b3 Mikhail Shemyakin <zlovred12@gmail.com> 1610998196 +0300	merge java3(2): Merge made by the 'recursive' strategy.
+4a5270586cccfe529be5d8a89c2ad517dcff85b3 e7b602449ddff7f733ae195b28aca1837b7a4b9e Mikhail Shemyakin <zlovred12@gmail.com> 1610998588 +0300	commit: lesson2dz
+e7b602449ddff7f733ae195b28aca1837b7a4b9e d24f048305683cd3adc9dcb342fcdc6323e34030 Mikhail Shemyakin <zlovred12@gmail.com> 1611066208 +0300	commit: AuthManage
+d24f048305683cd3adc9dcb342fcdc6323e34030 27ba53d3f7437bc731b473a5d815f96bb883e408 Mikhail Shemyakin <zlovred12@gmail.com> 1611066511 +0300	commit: AuthManage
+27ba53d3f7437bc731b473a5d815f96bb883e408 e94eede6d8c369497a2ea9aba66421901f69204a Mikhail Shemyakin <zlovred12@gmail.com> 1611066523 +0300	commit: AuthManager
+e94eede6d8c369497a2ea9aba66421901f69204a 6347c7e0a2c0f9022060e048edbe959e421aa6e9 Mikhail Shemyakin <zlovred12@gmail.com> 1611068780 +0300	commit: temp
+6347c7e0a2c0f9022060e048edbe959e421aa6e9 e9ea7cd5310b012067d4149be77a441b29d82788 Mikhail Shemyakin <zlovred12@gmail.com> 1611069547 +0300	commit: serverChangeNick
+e9ea7cd5310b012067d4149be77a441b29d82788 2d05d5415cd3178f0a95f68e5f01fddab68771c6 Mikhail Shemyakin <zlovred12@gmail.com> 1611069586 +0300	commit: serverSQLstartSQLclose()
+2d05d5415cd3178f0a95f68e5f01fddab68771c6 e376142e12173ca0117c8f0468552752bbb6817b Mikhail Shemyakin <zlovred12@gmail.com> 1611069593 +0300	commit: serverSQLstartSQLclose();
+e376142e12173ca0117c8f0468552752bbb6817b 43b31472f34be9e55e29475f49b1251e328b1534 Mikhail Shemyakin <zlovred12@gmail.com> 1611081338 +0300	commit: tempWrite
+43b31472f34be9e55e29475f49b1251e328b1534 d0517a424a68164599ece0cde13acd0ac884cb77 Mikhail Shemyakin <zlovred12@gmail.com> 1611082771 +0300	commit: tempWrite
+d0517a424a68164599ece0cde13acd0ac884cb77 f49936aa7917024e2df6834e3054353e427d4b20 Mikhail Shemyakin <zlovred12@gmail.com> 1611082806 +0300	commit: tempWrite
+f49936aa7917024e2df6834e3054353e427d4b20 a20df296133f24991b6af53327ea549dc4eea5b7 Mikhail Shemyakin <zlovred12@gmail.com> 1611083141 +0300	commit: history[login.txt]
+a20df296133f24991b6af53327ea549dc4eea5b7 fa495b95ba3f21f1e33861316789c0db73755f7e Mikhail Shemyakin <zlovred12@gmail.com> 1611094362 +0300	commit: temp
+fa495b95ba3f21f1e33861316789c0db73755f7e 321b3d1c0b7d4c01a8c07fbfe4300fc983acc2ba Mikhail Shemyakin <zlovred12@gmail.com> 1611094421 +0300	commit: temp
+321b3d1c0b7d4c01a8c07fbfe4300fc983acc2ba 6c9b818138cb6a92e2bdf3a3bf19cf43e73c50e5 Mikhail Shemyakin <zlovred12@gmail.com> 1611095224 +0300	commit: dont
+6c9b818138cb6a92e2bdf3a3bf19cf43e73c50e5 8773a24bd769865a7f354fd019f5d14841ea6b23 Mikhail Shemyakin <zlovred12@gmail.com> 1611095237 +0300	commit: done
+8773a24bd769865a7f354fd019f5d14841ea6b23 4b22f9753405f0471a321cc13816717ccdaeefcf Mikhail Shemyakin <zlovred12@gmail.com> 1611149613 +0300	commit: done
+4b22f9753405f0471a321cc13816717ccdaeefcf 04458230de80f86109013390c85a062f396dd8a8 Mikhail Shemyakin <zlovred12@gmail.com> 1611150170 +0300	commit: done
+04458230de80f86109013390c85a062f396dd8a8 96f09e8860676674d2d599f0564906b190c412fa Mikhail Shemyakin <zlovred12@gmail.com> 1611150893 +0300	commit: done
+96f09e8860676674d2d599f0564906b190c412fa a3cdcfe34ae95ea1a785b34c2904e9fa1d1547c7 Mikhail Shemyakin <zlovred12@gmail.com> 1611152754 +0300	commit: temp
+a3cdcfe34ae95ea1a785b34c2904e9fa1d1547c7 046cbc0f2d94fd60da287db7c0b5d65c0aab04ca Mikhail Shemyakin <zlovred12@gmail.com> 1611154261 +0300	commit: thread
+046cbc0f2d94fd60da287db7c0b5d65c0aab04ca ee5bfda0b224a69ac040ec623502c28122ddb1fb Mikhail Shemyakin <zlovred12@gmail.com> 1611162302 +0300	commit: executorService
+ee5bfda0b224a69ac040ec623502c28122ddb1fb 3962c8324fb521456beb106abe39d6eeaa9eafff Mikhail Shemyakin <zlovred12@gmail.com> 1611162341 +0300	commit: executorService
+3962c8324fb521456beb106abe39d6eeaa9eafff fad8cf723beff563747c10d4684de634cc45195a Mikhail Shemyakin <zlovred12@gmail.com> 1611169556 +0300	commit: log
+fad8cf723beff563747c10d4684de634cc45195a a04c0217572484c97d0a3d5606a9b0a14535a53b Mikhail Shemyakin <zlovred12@gmail.com> 1611229164 +0300	commit: log
+a04c0217572484c97d0a3d5606a9b0a14535a53b cafb42d4a61e5886e6695e41bd085e4aa54c4e50 Mikhail Shemyakin <zlovred12@gmail.com> 1611229866 +0300	commit: log
+cafb42d4a61e5886e6695e41bd085e4aa54c4e50 d53892bb9c127e39599540b372e2c07fbec409a2 Mikhail Shemyakin <zlovred12@gmail.com> 1611230730 +0300	commit: log
+d53892bb9c127e39599540b372e2c07fbec409a2 746913c24230cd9dfddae7e9a71d5260e6b9ee25 Mikhail Shemyakin <zlovred12@gmail.com> 1611240575 +0300	commit: log
+746913c24230cd9dfddae7e9a71d5260e6b9ee25 7fa444669af2a29dc982657f53bfdd872e805edb Mikhail Shemyakin <zlovred12@gmail.com> 1611241677 +0300	commit: executorservise
+7fa444669af2a29dc982657f53bfdd872e805edb 496cfafe2e55fad607700b3b69083eb055d11721 Mikhail Shemyakin <zlovred12@gmail.com> 1611428427 +0300	commit: logs
+496cfafe2e55fad607700b3b69083eb055d11721 151aee56f07f068f80257b8e8747afb865f2c01c Mikhail Shemyakin <zlovred12@gmail.com> 1611431061 +0300	commit: Logger
+151aee56f07f068f80257b8e8747afb865f2c01c 453fe51561ca9db3e47414f286d43950c3f79d19 Mikhail Shemyakin <zlovred12@gmail.com> 1611431085 +0300	commit: Logger
+453fe51561ca9db3e47414f286d43950c3f79d19 0869a69466f58132ec8e2759a2e3034ae98b3c8d IMBABOT1 <zlovred12@gmail.com> 1613569922 +0300	commit: temp
+0869a69466f58132ec8e2759a2e3034ae98b3c8d 13a2755625b354a3b8862cd5de6f963bc7e40224 IMBABOT1 <zlovred12@gmail.com> 1613569962 +0300	commit: temp
+13a2755625b354a3b8862cd5de6f963bc7e40224 acfdb112d26f7ed65dd47f95666b057da918498e IMBABOT1 <zlovred12@gmail.com> 1613569975 +0300	commit: temp
+acfdb112d26f7ed65dd47f95666b057da918498e 04004be357ff8bbe90f08ff49702127117cedb6d IMBABOT1 <zlovred12@gmail.com> 1613569994 +0300	commit: temp
+04004be357ff8bbe90f08ff49702127117cedb6d bdfaed2933ba5748adc936bc24a5f033b696af82 IMBABOT1 <zlovred12@gmail.com> 1613570016 +0300	commit: temp
+bdfaed2933ba5748adc936bc24a5f033b696af82 13371594c568faefae98b76462f5a1298dd4142e IMBABOT1 <zlovred12@gmail.com> 1613570052 +0300	commit: temp
+13371594c568faefae98b76462f5a1298dd4142e 1274616dd5f3afed655df622862701e4b0277e95 IMBABOT1 <zlovred12@gmail.com> 1613570080 +0300	commit: temp
+1274616dd5f3afed655df622862701e4b0277e95 0000000000000000000000000000000000000000 IMBABOT1 <zlovred12@gmail.com> 1613570372 +0300	Branch: renamed refs/heads/main to refs/heads/main
+1274616dd5f3afed655df622862701e4b0277e95 1274616dd5f3afed655df622862701e4b0277e95 IMBABOT1 <zlovred12@gmail.com> 1613570372 +0300	Branch: renamed refs/heads/main to refs/heads/main
