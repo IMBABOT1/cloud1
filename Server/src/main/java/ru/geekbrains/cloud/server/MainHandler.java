@@ -19,7 +19,7 @@ public class MainHandler extends ChannelInboundHandlerAdapter {
 
     @Override
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
-        sqlAuthManager = new SqlAuthManager();
+        sqlAuthManager = new SqlAuthManager(SqlAuthManager.conn);
 
         try {
             System.out.println(msg.toString());

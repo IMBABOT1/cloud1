@@ -8,12 +8,17 @@
        xmlns="http://www.springframework.org/schema/beans">
 
 
+    <bean id="server" class="ru.geekbrains.cloud.server.Server"></bean>
 
+
+    <bean id="sqlAuthManager" class="ru.geekbrains.cloud.server.SqlAuthManager">
+        <constructor-arg ref="dataSource"/>
+    </bean>
 
     <bean id="dataSource" class="org.springframework.jdbc.datasource.DriverManagerDataSource">
-        <property name="driverClassName" value="com.mysql.cj.jdbc.Driver"/>
-        <property name="username" value="root"/>
-        <property name="password" value="IMBABOTGg2A7Vyz"/>
-        <property name="url" value="jdbc:mysql://localhost:3306/network_chat?&amp;useUnicode=true&amp;characterEncoding=UTF-8&amp;serverTimezone=UTC"/>
+        <property name="driverClassName" value="org.sqlite.JDBC"/>
+        <property name="username" value=""/>
+        <property name="password" value=""/>
+        <property name="url" value="jdbc:sqlite:ClientStorage.db"/>
     </bean>
 </beans>

@@ -7,6 +7,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns="http://www.springframework.org/schema/beans">
 
+    <context:component-scan base-package="ru.geekbrains.cloud.server"/>
+
 
     <bean id="server" class="ru.geekbrains.cloud.server.Server"></bean>
 

@@ -12,15 +12,22 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 import io.netty.handler.codec.serialization.ClassResolvers;
 import io.netty.handler.codec.serialization.ObjectDecoder;
 import io.netty.handler.codec.serialization.ObjectEncoder;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
 import java.sql.SQLException;
 
-
+@Component
 public class Server {
+
     private SqlAuthManager authManager;
 
+    @Autowired
+    public Server(){
+    }
+
     public void run() throws Exception {
-        authManager = new SqlAuthManager();
+        authManager = new SqlAuthManager(authManager.conn);
         try {
             authManager.connect();
         } catch (ClassNotFoundException e) {

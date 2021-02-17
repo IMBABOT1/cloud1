@@ -1,11 +1,15 @@
 package ru.geekbrains.cloud.server;
 
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Repository;
+
 import javax.sql.DataSource;
 import java.sql.*;
-
+@Repository
 public class SqlAuthManager implements AuthManager {
 
-    private static Connection conn;
+
+    public static Connection conn;
     private static Statement statement;
     private static PreparedStatement ps;
 
@@ -14,6 +18,7 @@ public class SqlAuthManager implements AuthManager {
         this(dataSource.getConnection());
     }
 
+    @Autowired
     public SqlAuthManager(Connection conn) throws ClassNotFoundException, SQLException{
         Class.forName("org.sqlite.JDBC");
         conn = DriverManager.getConnection("jdbc:sqlite:ClientStorage.db");
