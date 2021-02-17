@@ -5,25 +5,25 @@ import java.sql.*;
 
 public class SqlAuthManager implements AuthManager {
 
-    private static Connection connection;
+    private static Connection conn;
     private static Statement statement;
     private static PreparedStatement ps;
 
 
-    public SqlAuthManager(DataSource dataSource) throws SQLException{
-
+    public SqlAuthManager(DataSource dataSource) throws SQLException, ClassNotFoundException {
+        this(dataSource.getConnection());
     }
 
-    public SqlAuthManager(){
-
+    public SqlAuthManager(Connection conn) throws ClassNotFoundException, SQLException{
+        Class.forName("org.sqlite.JDBC");
+        conn = DriverManager.getConnection("jdbc:sqlite:ClientStorage.db");
+        statement = conn.createStatement();
     }
 
 
     @Override
     public void connect() throws ClassNotFoundException, SQLException {
-        Class.forName("org.sqlite.JDBC");
-        connection = DriverManager.getConnection("jdbc:sqlite:ClientStorage.db");
-        statement = connection.createStatement();
+
     }
 
     @Override
@@ -36,8 +36,8 @@ public class SqlAuthManager implements AuthManager {
             throwables.printStackTrace();
         }
         try {
-            if (connection != null) {
-                connection.close();
+            if (conn != null) {
+                conn.close();
             }
         } catch (SQLException throwables) {
             throwables.printStackTrace();
